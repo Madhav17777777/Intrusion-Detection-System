@@ -115,17 +115,17 @@ Over 700,000 network flow samples
 
 🧪 Experiments
 🔹 Binary Classification Results
-Model Accuracy Precision Recall F1-Score
-Hybrid Graph Transformer (Ours) 99.67% 99.42% 99.64% 99.67%
-Random Forest 99.65% 99.20% 99.20% 99.05%
-XGBoost 99.58% 98.75% 99.10% 98.92%
+         Model	                Accuracy	Precision	Recall F1-Score
+Hybrid Graph Transformer (Ours)	99.67%	99.42%	99.64%	99.67%
+Random Forest	                  99.65%	99.20%	99.20%	99.05%
+XGBoost	                        99.58%	98.75%	99.10%	98.92%
 🔹 Multiclass Classification Results
-Attack Type Precision Recall F1-Score
-DDoS 98.2% 97.8% 98.0%
-DoS 97.5% 96.9% 97.2%
-Reconnaissance 96.8% 95.4% 96.1%
-👥 Contributors
+Attack Type	                   Precision	Recall	F1-Score
+DDoS	                           98.2%	   97.8%	 98.0%
+DoS                              97.5%	   96.9%	 97.2%
+Reconnaissance	                 96.8%	   95.4%	 96.1%
 
+👥 Contributors
 Madhav Goel
 
 📜 License
